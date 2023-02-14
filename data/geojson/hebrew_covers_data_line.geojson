@@ -1,0 +1,8 @@
+line={
+"type": "FeatureCollection",
+"name": "hebrew_covers_data_line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "begin": "2", "end": "7" }, "geometry": { "type": "LineString", "coordinates": [ [ 35.208086682199998, 31.7652501755 ], [ 34.7751618056, 32.082454054199999 ], [ 34.960276511499998, 32.0064184553 ], [ 34.772642655799999, 31.6108115802 ], [ 34.915707948200001, 32.3474586512 ], [ 34.776062460299997, 32.068459664700001 ] ] } }
+]
+}
